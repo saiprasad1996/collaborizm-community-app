@@ -1,3 +1,5 @@
+[![Collaborizm](https://www.collaborizm.com/GitHubBadge.svg)](https://www.collaborizm.com/project/rkzcW8oGx)
+
 # Welcome to the Collaborizm Community Made App!
 
 Project page https://www.collaborizm.com/project/rkzcW8oGx
